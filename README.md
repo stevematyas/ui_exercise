@@ -3,7 +3,7 @@ A UI exercise for UI engineer applicants at OneMain.
 
 > Disclaimer: **_Try not to spend more than a few hours on this, but feel free space it out over a couple of days._** We know a work/life balance is important and exercises like this just add on to that.
 
-Please build a solution following the below requirements using your libraries/frameworks of greatest strength or proficiency. Note: While arguments may exist allowing plain classic (HTML, JS, CSS) solution to be built, we'd prefer to see you demonstrate how a majority of 0 to 1 solutions that you will deliver to production. 
+Please build a solution following the below requirements using a front-end framework of your choice - greatest strength or proficiency - and preferrably Angular/React. Note: While arguments may exist allowing plain classic (HTML, JS, CSS) solution to be built, we'd prefer to see you demonstrate how a majority of 0 to 1 solutions that you will deliver to production. 
 
 ### Solution requirements: 
 - Match the design system, using `design-files` included in this repository, as close as possible. 
