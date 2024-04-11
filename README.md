@@ -1,23 +1,21 @@
 # UI Exercise
-A UI exercise for UI applicants at OneMain
+A UI exercise for UI engineer applicants at OneMain. 
 
-Use the design files in this repository to build a simple solution, similar to one you might encounter working for us. Please match the design as closely as you are able.
+> Disclaimer: **_Try not to spend more than a few hours on this, but feel free space it out over a couple of days._** We know a work/life balance is important and exercises like this just add on to that.
 
+Please build a solution following the below requirements using your libraries/frameworks of greatest strength or proficiency. Note: While arguments may exist allowing plain classic (HTML, JS, CSS) solution to be built, we'd prefer to see you demonstrate how a majority of 0 to 1 solutions that you will deliver to production. 
+
+### Solution requirements: 
+- Match the design system, using `design-files` included in this repository, as close as possible. 
 - Assume the form submits to a secure backend. 
-- All fields are required, though the form changes depending on if you are planing to use a debit card or bank account.
+- All fields are required, though the form changes depending on if payment will be remitted via debit card or bank account.
 - Account, routing, and credit card numbers, as well as CVV, should be numbers only.
 - CVV should be exactly 3 numbers.
 - Routing number should be no more than 9 numbers.
+- If any requirements are unclear please document your assumptions and press forward. 
+- Please provide instructions to build or run submission unless, submission is already web hosted.
 
-Get as close to the design as you can using whatever libraries/frameworks you’re most comfortable.  If you have any questions, feel free to ask.
-
-**_Try not to spend more than a few hours on this, but feel free space it out over a couple of days._** We know a work/life balance is important and exercises like this just add on to that.
-
-We’re just looking for a simple front-end only implementation of this.  Assume that the actual form submits to a secure backend. The only validations we’re looking for are the ones spelled out in the description.
-
-Your response should be a folder containing any HTML, CSS, and JS you’ve written.  We should be able to just open the index file directly (file:///./ui_exercise/solution/index.html) or via a http server [http://localhost/index.html] to view and use the exercise.
-
-Feel free to return the folder as a zip file or upload it to your GitHub. Either way, please let me know when you’ve completed the exercise so that we can evaluate your work.
+Your response should be a URL to your work in your github repository. Again, please provide instructions to build or run solution unless, solution is already web hosted. 
 
 ### What we're looking for
 - How close did you get to the design?
